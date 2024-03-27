@@ -1,5 +1,7 @@
 # やれやれだぜ...
-![Yare-Yare-Daze](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ3ZW1sdHJ0eWw3bnoxYnA3NWx3ZHFkZnJ5dWJpejZjdjdtNzZiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hm5GaIXm3aifS/giphy.gif)
+<p align="center">
+	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ3ZW1sdHJ0eWw3bnoxYnA3NWx3ZHFkZnJ5dWJpejZjdjdtNzZiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hm5GaIXm3aifS/giphy.gif" alt="Yare-Yare-Daze"/>
+</p>
 ___
 ### I'm Ariguun, a student based in St. Petersburg, Russia.
 ### Currently studying SE at [ITMO University](https://itmo.ru)
@@ -162,8 +164,10 @@ ___
 		</tr>
    </table>
 </div>
+<p align="center">
+	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBtNm55eTlwMXpucTN5aG1iNHI2MzZjb201dWNvNm1sd3Zxc3F2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1mFVpMmFnfAFG/giphy.gif" alt="Precision"/>
+</p>
 
-![Precision](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBtNm55eTlwMXpucTN5aG1iNHI2MzZjb201dWNvNm1sd3Zxc3F2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1mFVpMmFnfAFG/giphy.gif)
 ## What I would like to learn in the near future:
 <div align="center">
 	<table>
@@ -175,11 +179,6 @@ ___
 			<th>VCS</th>
 			<th>Preferred IDEs</th>
 			<th>OS</th>
-		</tr>
-		<tr>
-			<td>
-				
-			</td>
 		</tr>
    </table>
 </div>
