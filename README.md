@@ -8,15 +8,6 @@ What I know:
 <div align="center">
 	<table>
 		<tr>
-			<th>Coding Languages</th>
-			<th>Database technologies</th>
-			<th>Web technologies</th>
-			<th>Additional technologies</th>
-			<th>VCS</th>
-			<th>IDEs</th>
-			<th>OS</th>
-		</tr>
-		<tr>
 			<td>
 				<p align="center">
 					<a href="https://python.org" target="_blank" rel="noreferrer">
