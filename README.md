@@ -11,57 +11,57 @@ What I know:
 			<td>
 				<p align="center">
 					<a href="https://python.org" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 					</a>
 					<a href="https://java.com" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 					</a>
 					<a href="https://isocpp.org" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
 					</a>
 					<a href="https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
 					</a>
 				</p>
 			</td>
 			<td>
 				<p align="center">
 					<a href="https://postgresql.org" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 					</a>
 					<a href="https://mysql.com" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 					</a>
 					<a href="https://mongodb.com" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
 					</a>
 				</p>
 			</td>
 			<td>
 				<p align="center">
 					<a href="https://php.net" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 					</a>
 					<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 					</a>
 					<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
 					</a>
 					<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 					</a>
 					<a href="https://jquery.com" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
 					</a>
 					<a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 					</a>
 					<a href="https://angular.dev" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 					</a>
 					<a href="https://spring.io" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 					</a>
 					<a href="" target="_blank" rel="noreferrer">
 						<img width=70 src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" />
@@ -96,54 +96,54 @@ What I know:
 			<td>
 				<p align="center">
 					<a href="https://git-scm.com" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 					</a>
 					<a href="https://apache.subversion.com" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-original.svg" />
 					</a>
 					<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 					</a>
 					<a href="https://about.gitlab.com" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 					</a>
 				</p>
 			</td>
 			<td>
 				<p align="center">
 					<a href="https://jetbrains.org/idea" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 					</a>
 					<a href="https://jetbrains.org/pycharm" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 					</a>
 					<a href="https://jetbrains.org/clion" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
 					</a>
 					<a href="https://jetbrains.org/phpstorm" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
 					</a>
 					<a href="https://jetbrains.org/webstorm" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
 					</a>
 					<a href="https://code.vidualstudio.com" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 					</a>
 					<a href="https://vim.org" target="_blank" rel="noreferrer">
-        					<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" />
+        					<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" />
 					</a>
 				</p>
 			</td>
 			<td>
 				<p align="center">
 					<a href="https://microsort.com/en-us/windows" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 					</a>
 					<a href="https://linux.org" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 					</a>
 					<a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 					</a>
 				</p>
 			</td>
