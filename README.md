@@ -64,7 +64,7 @@ What I know:
 						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 					</a>
 					<a href="" target="_blank" rel="noreferrer">
-						<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" />
+						<img width=70 src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" />
 					</a>
 				</p>
    			</td>
@@ -77,16 +77,16 @@ What I know:
 						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
 					</a>
 					<a href="https://projectlombok.org" target="_blank" rel="noreferrer">
-						<img width=50 src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" />
+						<img width=70 src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" />
 					</a>
 					<a href="https://ant.apache.org" target="_blank" rel="noreferrrer">
-						<img width=50 src="https://icon-icons.com/icons2/2699/PNG/512/apache_ant_logo_icon_169591.png" />
+						<img width=70 src="https://icon-icons.com/icons2/2699/PNG/512/apache_ant_logo_icon_169591.png" />
 					</a>
 					<a href="https://npmjs.org" target="_blank" rel="noreferrer">
 						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 					</a>
 					<a href="https://testcontainers.com" target="_blank" rel="noreferrer">
-						<img src="https://user-images.githubusercontent.com/25181517/184097317-690eea12-3a26-4f7c-8521-729ebbbb3f98.png"/>
+						<img width=70 src="https://user-images.githubusercontent.com/25181517/184097317-690eea12-3a26-4f7c-8521-729ebbbb3f98.png"/>
 					</a>
 					<a href="postman.com" target="_blank" rel="noreferrer">
 						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
