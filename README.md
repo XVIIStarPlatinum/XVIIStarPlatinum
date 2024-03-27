@@ -71,10 +71,10 @@ What I know:
 			<td>
 				<p align="center">
 					<a href="https://maven.apache.org" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 					</a>
 					<a href="https://gradle.org" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
 					</a>
 					<a href="https://projectlombok.org" target="_blank" rel="noreferrer">
 						<img width=70 src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" />
@@ -83,13 +83,13 @@ What I know:
 						<img width=70 src="https://icon-icons.com/icons2/2699/PNG/512/apache_ant_logo_icon_169591.png" />
 					</a>
 					<a href="https://npmjs.org" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 					</a>
 					<a href="https://testcontainers.com" target="_blank" rel="noreferrer">
 						<img width=70 src="https://user-images.githubusercontent.com/25181517/184097317-690eea12-3a26-4f7c-8521-729ebbbb3f98.png"/>
 					</a>
 					<a href="postman.com" target="_blank" rel="noreferrer">
-						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+						<img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 					</a>
 				</p>
 			</td>
