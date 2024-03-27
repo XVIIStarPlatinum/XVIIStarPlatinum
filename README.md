@@ -77,10 +77,10 @@ What I know:
 						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
 					</a>
 					<a href="https://projectlombok.org" target="_blank" rel="noreferrer">
-						<img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" />
+						<img width=50 src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" />
 					</a>
 					<a href="https://ant.apache.org" target="_blank" rel="noreferrrer">
-						<img src="https://icon-icons.com/icons2/2699/PNG/512/apache_ant_logo_icon_169591.png" />
+						<img width=50 src="https://icon-icons.com/icons2/2699/PNG/512/apache_ant_logo_icon_169591.png" />
 					</a>
 					<a href="https://npmjs.org" target="_blank" rel="noreferrer">
 						<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
