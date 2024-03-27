@@ -2,6 +2,7 @@
 <p align="center">
 	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ3ZW1sdHJ0eWw3bnoxYnA3NWx3ZHFkZnJ5dWJpejZjdjdtNzZiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hm5GaIXm3aifS/giphy.gif" alt="Yare-Yare-Daze"/>
 </p>
+
 ___
 ### I'm Ariguun, a student based in St. Petersburg, Russia.
 ### Currently studying SE at [ITMO University](https://itmo.ru)
