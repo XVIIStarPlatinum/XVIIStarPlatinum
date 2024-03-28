@@ -110,7 +110,7 @@ ___
 					<a href="https://git-scm.com" target="_blank" rel="noreferrer">
 						<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 					</a>
-					<a href="https://apache.subversion.com" target="_blank" rel="noreferrer">
+					<a href="https://apache.subversion.org" target="_blank" rel="noreferrer">
 						<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-original.svg" />
 					</a>
 					<a href="https://github.com/features" target="_blank" rel="noreferrer">
@@ -141,7 +141,7 @@ ___
 					<a href="https://jetbrains.org/webstorm" target="_blank" rel="noreferrer">
 						<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
 					</a>
-					<a href="https://code.vidualstudio.com" target="_blank" rel="noreferrer">
+					<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
 						<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 					</a>
 					<a href="https://vim.org" target="_blank" rel="noreferrer">
@@ -151,7 +151,7 @@ ___
 			</td>
 			<td>
 				<p align="center">
-					<a href="https://microsort.com/en-us/windows" target="_blank" rel="noreferrer">
+					<a href="https://microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
 						<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 					</a>
 					<a href="https://linux.org" target="_blank" rel="noreferrer">
