@@ -144,7 +144,7 @@ ___
 					<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
 						<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 					</a>
-					<a href="https://vim.org" target="_blank" rel="noreferrer">
+					<a href="https://www.vim.org" target="_blank" rel="noreferrer">
         					<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" />
 					</a>
 				</p>
