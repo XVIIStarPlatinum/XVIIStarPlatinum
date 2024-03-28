@@ -110,7 +110,7 @@ ___
 					<a href="https://git-scm.com" target="_blank" rel="noreferrer">
 						<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 					</a>
-					<a href="https://apache.subversion.org" target="_blank" rel="noreferrer">
+					<a href="https://subversion.apache.org" target="_blank" rel="noreferrer">
 						<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-original.svg" />
 					</a>
 					<a href="https://github.com/features" target="_blank" rel="noreferrer">
