@@ -4,8 +4,8 @@
 </p>
 
 ___
-### I'm Ariguun, a student based in St. Petersburg, Russia.
-### Currently studying SE at [ITMO University](https://itmo.ru).
+**I'm Ariguun, a student based in St. Petersburg, Russia.**
+**Currently studying SE at [ITMO University](https://itmo.ru).**
 
 ## What I know:
 <div align="center">
@@ -206,7 +206,7 @@ ___
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 					</a>
 					<a href="https://lisp-lang.org/" target="_blank" rel="noreferrer">
-						<img width=50 src="https://en.m.wikipedia.org/wiki/File:Lisp_logo.svg" />
+						<img width=50 src="https://static-00.iconduck.com/assets.00/common-lisp-icon-495x512-nx7e2hw8.png" />
 					</a>
 					<a href="https://www.mathworks.com/products/matlab.html/" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
@@ -276,6 +276,9 @@ ___
 					<a href="https://www.gwtproject.org/" target="_blank" rel="noreferrer">
 						<img width=50 src="https://upload.wikimedia.org/wikipedia/ru/thumb/e/e5/GWT-logo.svg/1200px-GWT-logo.svg.png" />
 					</a>
+					<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+					</a>
 				</p>
 			</td>
 			<td>
@@ -299,7 +302,9 @@ ___
 			</td>
 			<td>
 				<p align="center">
-					<a/>
+					<a href="https://www.mercurial-scm.org/" target="_blank" rel="noreferrer">
+						<img width=50 src="https://seeklogo.com/images/M/mercurial-logo-3284E72799-seeklogo.com.png" />
+					</a>
 				</p>
 			</td>
    			<td>
@@ -310,9 +315,30 @@ ___
 					<a href="https://www.jetbrains.com/goland/" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" />
 					</a>
-					<a href=""
+					<a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer">
+						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" />
+					</a>
+					<a href="https://www.jetbrains.com/dataspell/" target="_blank" rel="noreferrer">
+						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dataspell/dataspell-original.svg" />
+					</a>
 	   			</p>
    			</td>
+			<td>
+				<p align="center">
+					<a href="https://developer.apple.com/macos/" target="_blank" rel="noreferrer">
+          					<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+					</a>
+					<a href="https://www.android.com/" target="_blank" rel="noreferrer">
+						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
+					</a>
+					<a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+					</a>
+					<a href="https://amog-os.github.io/" target="_blank" rel="noreferrer">
+						<img width=50 src="https://static.wikia.nocookie.net/meme/images/0/07/Amogus_Template.png/revision/latest?cb=20210308145830" />
+					</a>
+				</p>
+			</td>
 		</tr>
 	</table>
 </div>
