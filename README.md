@@ -5,6 +5,7 @@
 
 ___
 **I'm Ariguun, a student based in St. Petersburg, Russia.**
+
 **Currently studying SE at [ITMO University](https://itmo.ru).**
 
 ## What I know:
