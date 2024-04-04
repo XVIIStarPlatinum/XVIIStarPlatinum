@@ -181,7 +181,7 @@ ___
 			<th>Web technologies</th>
 			<th>Additional technologies</th>
 			<th>VCS</th>
-			<th>Preferred IDEs</th>
+			<th>IDEs</th>
 			<th>OS</th>
 		</tr>
 		<tr>
@@ -303,7 +303,7 @@ ___
 			<td>
 				<p align="center">
 					<a href="https://www.mercurial-scm.org/" target="_blank" rel="noreferrer">
-						<img width=50 src="https://seeklogo.com/images/M/mercurial-logo-3284E72799-seeklogo.com.png" />
+						<img width=60 src="https://seeklogo.com/images/M/mercurial-logo-3284E72799-seeklogo.com.png" />
 					</a>
 				</p>
 			</td>
