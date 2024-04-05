@@ -71,6 +71,9 @@ ___
 					<a href="https://jquery.com" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
 					</a>
+					<a href="https://jakarta.ee/" target="_blank" rel="noreferrer">
+						<img width=50 src="https://upload.wikimedia.org/wikipedia/commons/8/81/Jakarta_ee_logo_schooner_color_stacked_default.svg" />
+					</a>
 					<a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 					</a>
