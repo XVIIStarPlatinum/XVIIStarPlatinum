@@ -1,5 +1,5 @@
 <div id="header" align="left">
-	<h1>やれやれだぜ... <img width=50 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY1MTQ0b2htcHdwY3d4MW4zZno1ODhyb2hsbWVramRyYXp5NTNrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVrgJrUTp0z9fFtA9B/giphy.gif" alt="icon" /></h1>
+	<h1>やれやれだぜ... <img width=25 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY1MTQ0b2htcHdwY3d4MW4zZno1ODhyb2hsbWVramRyYXp5NTNrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVrgJrUTp0z9fFtA9B/giphy.gif" alt="icon" /></h1>
 <p align="center">
 	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ3ZW1sdHJ0eWw3bnoxYnA3NWx3ZHFkZnJ5dWJpejZjdjdtNzZiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hm5GaIXm3aifS/giphy.gif" alt="Yare-Yare-Daze"/>
 </p>
