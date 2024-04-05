@@ -75,7 +75,7 @@ ___
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 					</a>
 					<a href="https://angular.dev" target="_blank" rel="noreferrer">
-						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+						<img width=50 src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" />
 					</a>
 					<a href="https://spring.io" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
