@@ -228,6 +228,9 @@ ___
 					<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
 						<img width=50 src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />
 					</a>
+					<a href="https://holyc-lang.com/" target="_blank" rel="noreferrer">
+						<img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/HolyC_Logo.svg/459px-HolyC_Logo.svg.png?20201031010606" />
+					</a>
 				</p>
 			</td>
 			<td>
