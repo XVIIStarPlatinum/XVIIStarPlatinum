@@ -149,6 +149,9 @@ ___
 					<a href="https://jetbrains.org/webstorm" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
 					</a>
+					<a href="https://www.jetbrains.com/goland/" target="_blank" rel="noreferrer">
+						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" />
+					</a>
 					<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 					</a>
@@ -320,9 +323,6 @@ ___
        					<a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
 	    					<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
           				</a>
-					<a href="https://www.jetbrains.com/goland/" target="_blank" rel="noreferrer">
-						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" />
-					</a>
 					<a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" />
 					</a>
