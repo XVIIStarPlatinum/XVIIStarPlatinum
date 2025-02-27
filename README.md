@@ -7,7 +7,7 @@
 ___
 **I'm Ariguun, a student based in St. Petersburg, Russia.**
 
-**SE & Cybersec @ [ITMO University](https://itmo.ru).**
+**SE @ [ITMO University](https://itmo.ru).**
 
 ## What I know:
 <div align="center">
@@ -39,6 +39,9 @@ ___
 					<a href="https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
 					</a>
+					<a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer">
+            					<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" />
+          				</a>
 				</p>
 			</td>
 			<td>
@@ -85,6 +88,15 @@ ___
 					</a>
 					<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
 						<img width=50 src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" />
+					</a>
+					<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+					</a>
+					<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+					</a>
+					<a href="https://react.dev/" target="_blank" rel="noreferrer">
+            					<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 					</a>
 				</p>
    			</td>
@@ -219,9 +231,6 @@ ___
 					<a href="https://www.mathworks.com/products/matlab.html/" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 					</a>
-					<a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer">
-            					<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" />
-          				</a>
 					<a href="https://ocaml.org/" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" />
 					</a>
@@ -247,9 +256,6 @@ ___
 					<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
             					<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 					</a>
-					<a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-          			  		<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
-					</a>
 				</p>
 			</td>
 			<td>
@@ -259,15 +265,6 @@ ___
 					</a>
 					<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
 						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-					</a>
-					<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-					</a>
-					<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-						<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-					</a>
-					<a href="https://react.dev/" target="_blank" rel="noreferrer">
-            					<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 					</a>
 					<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
             					<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
