@@ -1,7 +1,7 @@
 <div id="header" align="left">
 	<h1>『本気』出すぜ！ <img width=35 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanp3MHJpb3AwZnYwcGM0Z3FzZHliazRzb2l0ajZ4ajV5NTY3M28xbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MViDN5YMRfaEvFLlaK/giphy.gif" alt="icon" /></h1>
 <p align="center">
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ3ZW1sdHJ0eWw3bnoxYnA3NWx3ZHFkZnJ5dWJpejZjdjdtNzZiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hm5GaIXm3aifS/giphy.gif" alt="Yare-Yare-Daze"/>
+	<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenoydXpydThoMWZydTk0Zjhkb3VqbDBvYmQwODNhbWFkcHg5MjFiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4PP8KZUVnTwzPJtCY2/giphy.gif" alt="Absolute-Peak"/>
 </p>
 
 ___
@@ -189,7 +189,7 @@ ___
    </table>
 </div>
 <p align="center">
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBtNm55eTlwMXpucTN5aG1iNHI2MzZjb201dWNvNm1sd3Zxc3F2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1mFVpMmFnfAFG/giphy.gif" alt="Precision"/>
+	<img src="https://media1.tenor.com/m/ZeWVIh-6fK0AAAAC/anime-dandadan.gif" alt="Precision"/>
 </p>
 
 ## What I would like to learn in the near future:
